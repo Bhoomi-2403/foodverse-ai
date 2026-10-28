@@ -1,3 +1,4 @@
+ HEAD
 # FoodVerse AI
 
 Multimodal food-intelligence platform: React + FastAPI + Groq vision models.
@@ -84,3 +85,7 @@ python -m pytest -q
 
 ## Security
 Keys come from env only. Uploads are decoded to validate, written to random temp names and deleted. CORS is restricted to configured origins. Do not commit `.env`.
+=======
+# foodverse-ai
+FoodVerse AI is a multimodal AI-powered platform for food recognition, nutrition analysis, freshness detection, restaurant hygiene monitoring, smart recipe generation, and personalized meal planning using React.js, FastAPI, Python, and computer vision.
+ 9adb8d66e57a27969ac754aed31958401ce78387
